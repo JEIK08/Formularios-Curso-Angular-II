@@ -13,7 +13,8 @@ import { DataComponent } from './components/data/data.component';
     DataComponent
   ],
   imports: [
-    BrowserModule
+    BrowserModule,
+    FormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]
